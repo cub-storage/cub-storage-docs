@@ -3,13 +3,13 @@ openapi: "3.0.3"
 info:
   description: "Cub Storage API and DB DESIGN is at https://dbdocs.io/deepanshut041/cub-storage?view=relationships"
   version: "1.0.0"
-  title: "Swagger Petstore"
+  title: "Cub Storage API"
   termsOfService: "http://swagger.io/terms/"
   contact:
     email: "deepanshut041@gmail.com"
   license:
-    name: "Apache 2.0"
-    url: "http://www.apache.org/licenses/LICENSE-2.0.html"
+    name: "Database Diagram"
+    url: "https://dbdocs.io/deepanshut041/cub-storage?view=relationships"
 host: "api.cubstorage.com"
 basePath: "/v2"
 schemes:
