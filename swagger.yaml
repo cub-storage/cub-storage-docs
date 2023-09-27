@@ -1,7 +1,7 @@
 ---
 openapi: "3.0.3"
 info:
-  description: "Cub Storage API and DB DESIGN is at https://dbdocs.io/deepanshut041/cub-storage?view=relationships"
+  description: "Cub Storage API and DB DESIGN"
   version: "1.0.0"
   title: "Cub Storage API"
   termsOfService: "http://swagger.io/terms/"
